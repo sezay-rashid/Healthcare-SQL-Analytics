@@ -482,6 +482,7 @@ Aspiring Data Analyst | Business Intelligence Analyst | Data Engineer
 
 ### Connect with me
 
+- Email: *(sezay.rashid.dev@gmail.com)*
 - LinkedIn: *(www.linkedin.com/in/sezay-rashid-dev)*
 - GitHub: *(https://github.com/sezay-rashid/sezay-rashid)*
 
