@@ -482,8 +482,8 @@ Aspiring Data Analyst | Business Intelligence Analyst | Data Engineer
 
 ### Connect with me
 
-- LinkedIn: *(Add your LinkedIn profile URL here)*
-- GitHub: *(Add your GitHub profile URL here)*
+- LinkedIn: *(www.linkedin.com/in/sezay-rashid-dev)*
+- GitHub: *(https://github.com/sezay-rashid/sezay-rashid)*
 
 I am passionate about transforming data into meaningful insights and continuously developing my skills in SQL, Business Intelligence, Data Analytics and Data Engineering.
 
