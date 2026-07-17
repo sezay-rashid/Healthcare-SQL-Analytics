@@ -67,7 +67,7 @@ It enables users to analyse:
 - Overall operational KPIs
 
 <p align="center">
-<img src="docs/screenshots/healthcare_operations_dashboard.png" width="100%">
+<img src="docs/screenshots/healthcare_operations_dashboard.png" width="85%">
 </p>
 
 ---
@@ -105,7 +105,7 @@ These queries calculate operational KPIs before the results are visualised in Po
 ## Department Performance KPI
 
 <p align="center">
-<img src="docs/screenshots/sql_department_kpi.png" width="70%">
+<img src="docs/screenshots/sql_department_kpi.png" width="60%">
 </p>
 
 This query calculates:
@@ -125,7 +125,7 @@ The output is used within the following dashboard visuals:
 ## Waiting List Analysis
 
 <p align="center">
-<img src="docs/screenshots/sql_waiting_list_kpi.png" width="70%">
+<img src="docs/screenshots/sql_waiting_list_kpi.png" width="60%">
 </p>
 
 This SQL query calculates waiting list volumes across healthcare departments.
@@ -295,7 +295,7 @@ This demonstrates how SQL-generated insights can be transformed into executive-l
 ## 👨‍⚕ Consultant Workload
 
 <p align="center">
-<img src="docs/screenshots/consultant_workload.png" width="70%">
+<img src="docs/screenshots/consultant_workload.png" width="60%">
 </p>
 
 Displays appointment distribution across consultants, helping identify workload balance and resource utilisation.
@@ -305,7 +305,7 @@ Displays appointment distribution across consultants, helping identify workload 
 ## 📅 Monthly Appointment Trend
 
 <p align="center">
-<img src="docs/screenshots/monthly_appointment_trend.png" width="70%">
+<img src="docs/screenshots/monthly_appointment_trend.png" width="60%">
 </p>
 
 Illustrates appointment activity over time, making seasonal patterns and demand fluctuations easy to identify.
@@ -315,7 +315,7 @@ Illustrates appointment activity over time, making seasonal patterns and demand 
 ## 🏥 Appointments by Department
 
 <p align="center">
-<img src="docs/screenshots/appointments_by_department.png" width="70%">
+<img src="docs/screenshots/appointments_by_department.png" width="60%">
 </p>
 
 Compares appointment volumes across departments, highlighting areas with the highest service demand.
@@ -325,7 +325,7 @@ Compares appointment volumes across departments, highlighting areas with the hig
 ## 📌 Appointment Status Distribution
 
 <p align="center">
-<img src="docs/screenshots/pie_charts.png" width="70%">
+<img src="docs/screenshots/pie_charts.png" width="60%">
 </p>
 
 Summarises appointment outcomes, including:
@@ -341,7 +341,7 @@ These indicators help evaluate operational efficiency and patient engagement.
 ## ⏳ Waiting List by Department
 
 <p align="center">
-<img src="docs/screenshots/waiting_list_by_department.png" width="70%">
+<img src="docs/screenshots/waiting_list_by_department.png" width="60%">
 </p>
 
 Highlights departments with the largest waiting lists, supporting capacity planning and resource allocation.
