@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/screenshots/healthcare_sql_analytics_logo.png" alt="Healthcare SQL Analytics Logo" width="170">
-</p>
-
 <h1 align="center">Healthcare SQL Analytics</h1>
 
 <p align="center">
